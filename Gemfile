@@ -20,6 +20,8 @@ gem 'devise'
 gem 'font-awesome-rails'
 gem 'carrierwave', '~> 1.0'
 gem 'acts_as_votable', '~> 0.10.0'
+gem 'figaro'
+gem 'cloudinary'
 
 
 group :development, :test do
