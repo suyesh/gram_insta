@@ -19,6 +19,7 @@ gem 'jquery-rails'
 gem 'devise'
 gem 'font-awesome-rails'
 gem 'carrierwave', '~> 1.0'
+gem 'acts_as_votable', '~> 0.10.0'
 
 
 group :development, :test do
